@@ -4,5 +4,5 @@ let accountEmail = "aadilchanda1069@gmail.com";
 let accountPass = "12345";
 let accountState = "active";
 
-let accountCity = "okara";
+let accountCity ;
 console.table([accountEmail, accountPass, accountState, accountCity]);
